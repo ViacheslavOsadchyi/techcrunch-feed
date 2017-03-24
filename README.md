@@ -1,8 +1,8 @@
-#Techcrunch Feed App
+# Techcrunch Feed App
 
 Simple React + Redux App
 
-#Installation
+# Installation
 
 - clone repositiory
 - go to created folder
